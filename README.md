@@ -1,2 +1,3 @@
 # Cluster
-Repository untuk pengerjaan analisis dengan menggunakan metode clustering
+
+Repository for analysis using the clustering method
